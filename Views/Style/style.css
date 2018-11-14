@@ -1,0 +1,14 @@
+.marge
+{
+	margin-top: 60px;
+}
+body
+{
+	/*background-image: url('../img/beaux.jpg');*/
+	background-size: 100%;
+}
+p
+{
+	font-size: 150px;
+	font-weight: bold;
+}
